@@ -1,0 +1,14 @@
+command.c
+command.h
+command.o
+in
+Makefile
+memory
+memory.c
+out
+test
+test.c
+test.o
+token.c
+token.h
+token.o
